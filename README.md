@@ -1,5 +1,4 @@
 <h1>Hi 👋, I'm Priya Darshini I</h1>
-<h3>Aspiring Full Stack ML Engineer</h3>
 
 - 🌱 I’m currently learning **React.js And Django**
 
