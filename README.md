@@ -1,7 +1,10 @@
 <h1>Hi 👋, I'm Priya Darshini I</h1>
+<p>Passionate Computer Science Engineering student at Nitte Meenakshi Institute of Technology with a keen interest in Web Development, UI/UX and Machine Learning. Enjoy applying my expertise to real-worldprojects, with a strong commitment to continuous learning and collaboration in the dynamic tech industry.</p>
+ 
+**How to reach me:** [darshini.devi8603@gmail.com](mailto:darshini.devi8603@gmail.com)
 
-<p><strong>How to reach me:</strong> <a href="mailto:darshini.devi8603@gmail.com">darshini.devi8603@gmail.com</a></p>
-<hr>
+---
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/priya-darshini-i-3149361b0/" target="_blank">
@@ -13,12 +16,13 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
+
 <p align="left">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" alt="R" />
+  <img src="https://img.shields.io/badge/jQuery-%23276DC3.svg?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" />
   <img src="https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
   <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
