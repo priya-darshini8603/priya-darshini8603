@@ -40,8 +40,8 @@
  <h3>⚡Notable Projects</h3>
 
 - **CodeDetect** 
-- **Bus Management System**
-- **AI Chrome Extension** 
+- **Transportation Facility System**
+- **AI Chrome Summarizer** 
 - **Teacher Leave Management System** 
 
 <hr>
