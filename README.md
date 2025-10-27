@@ -60,4 +60,9 @@
 
 ![](https://github-contributor-stats.vercel.app/api?username=priya-darshini8603&limit=5&theme=default_repocard&combine_all_yearly_contributions=true)
 
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=priya-darshini8603&style=for-the-badge&color=f06292" alt="Profile Views"/>
+</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F75C7E&height=120&section=footer&text=Thank+You+for+Visiting!+Keep+Coding+🚀&fontColor=fff&fontSize=20" />
+</p>
