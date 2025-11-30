@@ -1,9 +1,11 @@
+
 <h1>Hi 👋, I'm Priya Darshini I</h1>
+<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+
 <p>Passionate Computer Science Engineering student at Nitte Meenakshi Institute of Technology with a keen interest in Web Development, UI/UX and Machine Learning. Enjoy applying my expertise to real-worldprojects, with a strong commitment to continuous learning and collaboration in the dynamic tech industry.</p>
  
 **How to reach me:** [darshini.devi8603@gmail.com](mailto:darshini.devi8603@gmail.com)
 
----
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -11,8 +13,8 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
 </p>
-
 <hr>
+
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -57,8 +59,9 @@
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=priya-darshini8603&show_icons=true&locale=en" alt="priya-darshini8603" /></p>
 
-
-![](https://github-contributor-stats.vercel.app/api?username=priya-darshini8603&limit=5&theme=default_repocard&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priya-darshini8603" height="160px"/>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=priya-darshini8603&style=for-the-badge&color=f06292" alt="Profile Views"/>
